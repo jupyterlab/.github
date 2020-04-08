@@ -12,7 +12,7 @@ about: Create a report to help us repair something that is currently broken
 <!-- Tell us what you thought would happen. -->
 
 #### Actual behaviour
-<!-- Tell us what it actually happens. -->
+<!-- Tell us what actually happens. -->
 
 ### How to reproduce
 <!-- Use this section to describe the steps that a user would take to experience this bug. -->
