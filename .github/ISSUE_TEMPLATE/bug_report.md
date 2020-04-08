@@ -30,4 +30,4 @@ about: Create a report to help us repair something that is currently broken
  - Version:
  <!-- e.g. jupyterhub --version. --->
  - Configuration:
- <!-- Be careful not to share any sensible information. --->
+ <!-- Be careful not to share any sensitive information. --->
