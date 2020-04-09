@@ -19,7 +19,3 @@ about: Suggest a new feature or a big change
 
 ### (Optional): Suggest a solution
 <!-- Describe what you think needs to be done. This information will affect who chooses to work on the feature with you -->
-
-
-### Who can do this work?
-<!-- What skills are needed? Who can be recruited to add this feature? This information will affect who chooses to work on the feature with you. -->
