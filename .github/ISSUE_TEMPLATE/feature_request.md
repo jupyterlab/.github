@@ -14,7 +14,7 @@ about: Suggest a new feature or a big change
 
 
 ### Who would use this feature?
-<!-- Describe the audience for this feature. This information will affect who chooses to work on the feature with you. -->
+<!-- Describe who would benefit from using this feature. -->
 
 
 ### (Optional): Suggest a solution
