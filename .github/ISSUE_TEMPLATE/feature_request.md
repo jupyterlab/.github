@@ -17,8 +17,8 @@ about: Suggest a new feature or a big change
 <!-- Describe the audience for this feature. This information will affect who chooses to work on the feature with you. -->
 
 
-### How much effort will adding it take?
-<!-- Try to estimate how much work adding this feature will require. This information will affect who chooses to work on the feature with you. -->
+### (Optional): Suggest a solution
+<!-- Describe what you think needs to be done. This information will affect who chooses to work on the feature with you -->
 
 
 ### Who can do this work?
