@@ -18,4 +18,4 @@ about: Suggest a new feature or a big change
 
 
 ### (Optional): Suggest a solution
-<!-- Describe what you think needs to be done. This information will affect who chooses to work on the feature with you -->
+<!-- Describe what you think needs to be done. Doing that is an excellent first step to get the feature implemented. -->
