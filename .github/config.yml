@@ -1,0 +1,26 @@
+# Configuration for request-info - https://github.com/behaviorbot/request-info
+
+# *Required* Comment to reply with
+requestInfoReplyComment: |
+  Hi there :wave:!
+
+  I noticed that this new issue/PR doesn't provide any description, so I labeled it with `needs-more-info`.
+  
+  In order for us to be able to review your contribution and answer questions more quickly, please
+  describe it in more detail. A thorough description will also help people from the future, who
+  are looking for some quick context around this set of changes.
+
+  A great way to start is to follow <a href="https://github.com/jupyterhub/.github/tree/master/.github/ISSUE_TEMPLATE">issue templates</a> or the repository specific
+  PR template (if any). Ultimately, the most important question to answer in your
+  description is: *what goal do you want to achieve with this change?*.
+
+  Thank you! :heart:
+
+# *OPTIONAL* default titles to check against for lack of descriptiveness
+# MUST BE ALL LOWERCASE
+requestInfoDefaultTitles:
+  - update readme.md
+  - updates
+
+# *OPTIONAL* Label to be added to Issues and Pull Requests with insufficient information given
+requestInfoLabelToAdd: needs-more-info
