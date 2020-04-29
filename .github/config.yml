@@ -4,12 +4,15 @@
 requestInfoReplyComment: |
   Hi there :wave:!
 
-  We would appreciate it if you could provide us with more info about this issue/PR.
-  A great way to start would be to follow the <a href="https://github.com/jupyterhub/.github/tree/master/.github/ISSUE_TEMPLATE">issue templates</a> or the repository
-  specific PR template (if any).
+  I noticed that this new issue/PR doesn't provide any description, so I labeled it with `needs-more-info`.
   
-  This helps people review your contribution and answer questions more quickly and also
-  helps people in the future who are looking for some quick context around this set of changes.
+  In order for us to be able to review your contribution and answer questions more quickly, please
+  describe it in more detail. A thorough description will also help people from the future, who
+  are looking for some quick context around this set of changes.
+
+  A great way to start is to follow <a href="https://github.com/jupyterhub/.github/tree/master/.github/ISSUE_TEMPLATE">issue templates</a> or the repository specific
+  PR template (if any). Ultimately, the most important question to answer in your
+  description is: *what goal do you want to achieve with this change?*.
 
   Thank you! :heart:
 
