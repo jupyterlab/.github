@@ -1,6 +1,7 @@
 ---
 name: "\U0001F41B Bug report"
 about: Create a report to help us repair something that is currently broken
+labels: bug
 
 ---
 <!-- Thank you for contributing. These HTML commments will not render in the issue, but you can delete them once you've read them if you prefer! -->
