@@ -35,7 +35,7 @@ requestInfoLabelToAdd: needs-more-info
 newIssueWelcomeComment: >
   Thanks for opening your first issue in this project! Your input is very important to us! :hugs:
 
-  <br>If you haven't done so already, check out our [Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md).
+  <br>If you haven't done so already, check out [Jupyter's Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md).
   Also, please make sure you followed the issue templates, as this will help us provide feedback more quickly.
 
   ![welcome](https://raw.githubusercontent.com/jupyterhub/.github/master/images/welcome.jpg)
@@ -51,7 +51,7 @@ newIssueWelcomeComment: >
 newPRWelcomeComment: >
   Thanks for submitting your first pull request! You are awesome! :hugs:
 
-  <br>If you haven't done so already, check out our [Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md).
+  <br>If you haven't done so already, check out [Jupyter's Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md).
   Also, please make sure you followed the pull request template, as this will help us review your contribution more quickly.
 
   ![welcome](https://raw.githubusercontent.com/jupyterhub/.github/master/images/welcome.jpg)
