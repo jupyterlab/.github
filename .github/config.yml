@@ -33,7 +33,7 @@ requestInfoLabelToAdd: needs-more-info
 
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
-  Thanks for opening your first issue in this project! Your input is very important to us! :hugs:
+  Thank you for opening your first issue in this project! Engagement like this is essential for open source projects! :hugs:
 
   <br>If you haven't done so already, check out [Jupyter's Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md).
   Also, please make sure you followed the issue templates, as this will help us provide feedback more quickly.
