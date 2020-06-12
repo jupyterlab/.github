@@ -40,7 +40,10 @@ newIssueWelcomeComment: >
 
   ![welcome](https://raw.githubusercontent.com/jupyterhub/.github/master/images/welcome.jpg)
 
-  Welcome to the Jupyter community! :tada:
+  You can meet the other [Jovyans](https://jupyter.readthedocs.io/en/latest/community/content-community.html?highlight=jovyan#what-is-a-jovyan)
+  by joining our [Discourse forum](http://discourse.jupyter.org/). There is also a intro thread there where you can stop by and say Hi! :wave:
+
+  <br>Welcome to the Jupyter community! :tada:
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
@@ -53,7 +56,10 @@ newPRWelcomeComment: >
 
   ![welcome](https://raw.githubusercontent.com/jupyterhub/.github/master/images/welcome.jpg)
 
-  Welcome to the Jupyter community! :tada:
+  You can meet the other [Jovyans](https://jupyter.readthedocs.io/en/latest/community/content-community.html?highlight=jovyan#what-is-a-jovyan)
+  by joining our [Discourse forum](http://discourse.jupyter.org/). There is also a intro thread there where you can stop by and say Hi! :wave:
+
+  <br>Welcome to the Jupyter community! :tada:
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
