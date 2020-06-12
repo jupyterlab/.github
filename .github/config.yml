@@ -36,7 +36,7 @@ newIssueWelcomeComment: >
   Thanks for opening your first issue in this project! Your input is very important to us! :hugs:
 
   <br>If you haven't done so already, check out our [Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md).
-  Also, please make sure you followed the issue templates, as this will help us provide a feedback more quickly.
+  Also, please make sure you followed the issue templates, as this will help us provide feedback more quickly.
 
   ![welcome](https://raw.githubusercontent.com/jupyterhub/.github/master/images/welcome.jpg)
 
