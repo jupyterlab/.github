@@ -24,3 +24,49 @@ requestInfoDefaultTitles:
 
 # *OPTIONAL* Label to be added to Issues and Pull Requests with insufficient information given
 requestInfoLabelToAdd: needs-more-info
+
+###
+
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  Thank you for opening your first issue in this project! Engagement like this is essential for open source projects! :hugs:
+
+  <br>If you haven't done so already, check out [Jupyter's Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md).
+  Also, please try to follow the issue template as it helps other other community members to contribute more effectively.
+
+  ![welcome](https://raw.githubusercontent.com/jupyterhub/.github/master/images/welcome.jpg)
+
+  You can meet the other [Jovyans](https://jupyter.readthedocs.io/en/latest/community/content-community.html?highlight=jovyan#what-is-a-jovyan)
+  by joining our [Discourse forum](http://discourse.jupyter.org/). There is also an intro thread there where you can stop by and say Hi! :wave:
+
+  <br>Welcome to the Jupyter community! :tada:
+
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  Thanks for submitting your first pull request! You are awesome! :hugs:
+
+  <br>If you haven't done so already, check out [Jupyter's Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md).
+  Also, please make sure you followed the pull request template, as this will help us review your contribution more quickly.
+
+  ![welcome](https://raw.githubusercontent.com/jupyterhub/.github/master/images/welcome.jpg)
+
+  You can meet the other [Jovyans](https://jupyter.readthedocs.io/en/latest/community/content-community.html?highlight=jovyan#what-is-a-jovyan)
+  by joining our [Discourse forum](http://discourse.jupyter.org/). There is also a intro thread there where you can stop by and say Hi! :wave:
+
+  <br>Welcome to the Jupyter community! :tada:
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >
+  Congrats on your first merged pull request in this project! :tada:
+
+  ![congrats](https://raw.githubusercontent.com/jupyterhub/.github/master/images/congrats.jpg)
+
+  Thank you for contributing, we are very proud of you! :heart:
