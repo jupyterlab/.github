@@ -5,12 +5,12 @@ requestInfoReplyComment: |
   Hi there :wave:!
 
   I noticed that this new issue/PR doesn't provide any description, so I labeled it with `needs-more-info`.
-  
+
   In order for us to be able to review your contribution and answer questions more quickly, please
   describe it in more detail. A thorough description will also help people from the future, who
   are looking for some quick context around this set of changes.
 
-  A great way to start is to follow <a href="https://github.com/jupyterhub/.github/tree/master/.github/ISSUE_TEMPLATE">issue templates</a> or the repository specific
+  A great way to start is to follow <a href="https://github.com/jupyterlab/.github/tree/master/.github/ISSUE_TEMPLATE">issue templates</a> or the repository specific
   PR template (if any). Ultimately, the most important question to answer in your
   description is: *what goal do you want to achieve with this change?*.
 
@@ -38,7 +38,7 @@ newIssueWelcomeComment: >
   <br>If you haven't done so already, check out [Jupyter's Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md).
   Also, please try to follow the issue template as it helps other other community members to contribute more effectively.
 
-  ![welcome](https://raw.githubusercontent.com/jupyterhub/.github/master/images/welcome.jpg)
+  ![welcome](https://raw.githubusercontent.com/jupyterlab/.github/master/images/welcome.jpg)
 
   You can meet the other [Jovyans](https://jupyter.readthedocs.io/en/latest/community/content-community.html?highlight=jovyan#what-is-a-jovyan)
   by joining our [Discourse forum](http://discourse.jupyter.org/). There is also an intro thread there where you can stop by and say Hi! :wave:
@@ -54,7 +54,7 @@ newPRWelcomeComment: >
   <br>If you haven't done so already, check out [Jupyter's Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md).
   Also, please make sure you followed the pull request template, as this will help us review your contribution more quickly.
 
-  ![welcome](https://raw.githubusercontent.com/jupyterhub/.github/master/images/welcome.jpg)
+  ![welcome](https://raw.githubusercontent.com/jupyterlab/.github/master/images/welcome.jpg)
 
   You can meet the other [Jovyans](https://jupyter.readthedocs.io/en/latest/community/content-community.html?highlight=jovyan#what-is-a-jovyan)
   by joining our [Discourse forum](http://discourse.jupyter.org/). There is also a intro thread there where you can stop by and say Hi! :wave:
@@ -67,6 +67,6 @@ newPRWelcomeComment: >
 firstPRMergeComment: >
   Congrats on your first merged pull request in this project! :tada:
 
-  ![congrats](https://raw.githubusercontent.com/jupyterhub/.github/master/images/congrats.jpg)
+  ![congrats](https://raw.githubusercontent.com/jupyterlab/.github/master/images/congrats.jpg)
 
   Thank you for contributing, we are very proud of you! :heart:
