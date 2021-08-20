@@ -4,9 +4,8 @@ about: Create a report to help us repair something that is currently broken
 labels: bug
 ---
 
-<!-- Welcome! Thank you for contributing. These HTML comments will not render in the issue, but you can delete them once you've read them if you prefer! -->
+<!-- Welcome! Thank you for contributing. These HTML comments will not render in the issue.
 
-<!--
 Before creating a new issue:
 * Search for relevant issues
 * Follow the issue reporting guidelines:
@@ -37,9 +36,11 @@ https://jupyterlab.readthedocs.io/en/latest/getting_started/issue.html
 
 <!--Complete the following for context, and add any other relevant context-->
 
-- Operating System and version: <!-- e.g. Linux Ubuntu 19.06 -->
-- Browser and version: <!-- e.g. Chrome 86 -->
-- JupyterLab version: <!-- e.g. 3.0.16 -->
+- Operating System and version: <!-- e.g. Linux Ubuntu 21.04 -->
+- Browser and version: <!-- e.g. Chrome 92 -->
+- JupyterLab version: <!-- e.g. 3.1.7 -->
+
+<!--The more content you provide, the more we can help!-->
 
 <details><summary>Troubleshoot Output</summary>
 <pre>
