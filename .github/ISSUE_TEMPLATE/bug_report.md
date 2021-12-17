@@ -1,7 +1,7 @@
 ---
 name: "\U0001F41B Bug report"
 about: Create a report to help us repair something that is currently broken
-labels: bug
+labels: bug, status:Needs Triage
 ---
 
 <!-- Welcome! Thank you for contributing. These HTML comments will not render in the issue.
