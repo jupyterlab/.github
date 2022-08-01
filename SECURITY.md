@@ -4,4 +4,4 @@ Security Policy
 
 If you find a security vulnerability in Jupyter, please report it to security@ipython.org.
 
-See more information in our [docs](https://jupyter-server.readthedocs.io/en/stable/operators/security.html).
+See more information in our [docs](https://jupyter.org/security).
