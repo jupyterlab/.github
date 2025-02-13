@@ -4,5 +4,5 @@ contact_links:
     url: https://discourse.jupyter.org
     about: Search on Discourse for similar questions or ask for help there.
   - name: "\U0001F4AC Chat with the devs"
-    url: https://gitter.im/jupyterlab/jupyterlab
+    url: https://jupyter.zulipchat.com
     about: Ask short questions about using JupyterLab
