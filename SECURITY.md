@@ -1,6 +1,6 @@
 Security Policy
 
-## Reporting a Vulnerability
+## Reporting 
 
 If you find a security vulnerability in Jupyter, please report it to security@jupyter.org.
 
